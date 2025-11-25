@@ -3,12 +3,12 @@
 
 <!-- ✨ About Me -->
 ### 👨‍💻 About Me
-- 🔭 Currently working on * Full Stack + PowerBI + ML Model *  
-- 🌱 Learning *AI Agents + LLMs *  
-- ☁ Exploring *AWS & Azure*  
-- 💬 Ask me about *AI, ML, Langchan, LLMs, Transformers, Agents*  
+- 🔭 Currently building *Full-Stack applications • Practical ML models • End-to-end AI solutions*
+- 🌱 Learning *AI Agents • LLM architectures • LangChain • Retrieval-augmented systems *  
+- ☁ Exploring *AWS • Azure • Cloud-native deployment workflows*  
+- 💬 Ask me about *AI/ML fundamentals, LLMs, Transformers, Agents, LangChain*  
 - 📫 Reach me at: *[1234.sakshamtiwari@gmail.com](mailto:1234.sakshamtiwari@gmail.com)*  
-- 🏠 Building a *Tech Community* 🚀  
+- 🏠 Beyond coding: *Building a focused, growing tech community 🚀*   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
