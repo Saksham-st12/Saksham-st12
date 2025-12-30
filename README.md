@@ -32,7 +32,7 @@ I enjoy turning **models into systems** not just training them, but making them 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saksham_st12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-tiwari-078037324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1234.sakshamtiwari@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,html,js,ts,sklearn,pytorch,flask,django,fastapi,nodejs,react,postgres&theme=dark" />
 </p>
@@ -42,8 +42,15 @@ I enjoy turning **models into systems** not just training them, but making them 
 
 <p align="center"><strong>Currently learning MLOps</strong></p>
 
+## 🏢 Organizations I Contribute To
+<p align="center">
+  <a href="https://github.com/kornia/kornia">
+    <img src="https://img.shields.io/badge/KORNIA-Contributor-00C2FF?style=for-the-badge&logo=pytorch&logoColor=white" />
+  </a>
+</p>
 
-# 📊 GitHub Stats:
+
+## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saksham-st12&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
@@ -56,7 +63,7 @@ I enjoy turning **models into systems** not just training them, but making them 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-st12&theme=dark_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-st12&theme=github-dark&hide_border=true" />
 </p>
