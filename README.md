@@ -30,7 +30,17 @@ I enjoy turning **models into systems** not just training them, but making them 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saksham_st12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-tiwari-078037324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1234.sakshamtiwari@gmail.com) 
+<p align="center">
+  <a href="https://instagram.com/Saksham_st12">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/saksham-tiwari-078037324">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:1234.sakshamtiwari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## 💻 Tech Stack:
 <p align="center">
